@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1474503043 source:c:\users\avdrine\documents\github\matrix\main.cpp
+	"Includer.h"
+	"WorkWithMatrix.h"
+	"LoadMatrix.h"
+	"ErrorHandler.h"
+
+1474466608 c:\users\avdrine\documents\github\matrix\includer.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<cmath>
+
+1474286323 source:c:\users\avdrine\documents\github\matrix\tmpworkwithmatrix.cpp
+	"tmpWorkWithMatrix.h"
+
+1474229526 c:\users\avdrine\documents\github\matrix\tmpworkwithmatrix.h
+	"Includer.h"
+
+1474476481 c:\users\avdrine\documents\github\matrix\tmploadmatrix.h
+	"Includer.h"
+
+1474477010 source:c:\users\avdrine\documents\github\matrix\tmploadmatrix.cpp
+	"tmpLoadMatrix.h"
+
+1474501674 source:c:\users\avdrine\documents\github\matrix\errorhandler.cpp
+	"ConsoleInOut.h"
+
+1474495335 c:\users\avdrine\documents\github\matrix\errorhandler.h
+	"Includer.h"
+
+1474502468 source:c:\users\avdrine\documents\github\matrix\consoleinout.cpp
+	"ConsoleInOut.h"
+
+1474502401 c:\users\avdrine\documents\github\matrix\consoleinout.h
+	"Includer.h"
+
+1474504480 source:c:\users\avdrine\documents\github\matrix\loadmatrix.cpp
+	"LoadMatrix.h"
+
+1474503336 c:\users\avdrine\documents\github\matrix\loadmatrix.h
+	"Includer.h"
+	"ConsoleInOut.h"
+
+1474506115 c:\users\avdrine\documents\github\matrix\workwithmatrix.h
+	"Includer.h"
+	"ConsoleInOut.h"
+
+1474506480 source:c:\users\avdrine\documents\github\matrix\workwithmatrix.cpp
+	"WorkWithMatrix.h"
+
+1474925153 source:c:\users\Антон\desktop\баринов\consoleinout.cpp
+	"ConsoleInOut.h"
+
+1474925376 c:\users\Антон\desktop\баринов\consoleinout.h
+	"Includer.h"
+
+1474983376 c:\users\Антон\desktop\баринов\includer.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<new>
+
+1474927007 source:c:\users\Антон\desktop\баринов\errorhandler.cpp
+	"ErrorHandler.h"
+
+1474500880 source:c:\users\Антон\desktop\баринов\loadmatrix.cpp
+	"LoadMatrix.h"
+
+1474925405 c:\users\Антон\desktop\баринов\loadmatrix.h
+	"ConsoleInOut.h"
+
+1474925198 source:c:\users\Антон\desktop\баринов\main.cpp
+	"Includer.h"
+	"WorkWithMatrix.h"
+	"LoadMatrix.h"
+	"ErrorHandler.h"
+
+1474925440 c:\users\Антон\desktop\баринов\workwithmatrix.h
+	"ConsoleInOut.h"
+
+1474925359 c:\users\Антон\desktop\баринов\errorhandler.h
+	"ConsoleInOut.h"
+
+1474923904 source:c:\users\Антон\desktop\баринов\workwithmatrix.cpp
+	"WorkWithMatrix.h"
+
+1475066847 source:c:\users\avdrine\desktop\баринов\consoleinout.cpp
+	"ConsoleInOut.h"
+
+1476721848 c:\users\avdrine\desktop\баринов\consoleinout.h
+	<iostream>
+	<cmath>
+
+1475106679 c:\users\avdrine\desktop\баринов\includer.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<new>
+	<iomanip>
+
+1476741416 source:c:\users\avdrine\desktop\баринов\errorhandler.cpp
+	"ErrorHandler.h"
+
+1476741336 c:\users\avdrine\desktop\баринов\errorhandler.h
+	"ConsoleInOut.h"
+
+1476986943 source:c:\users\avdrine\desktop\баринов\loadmatrix.cpp
+	"LoadMatrix.h"
+
+1476740802 c:\users\avdrine\desktop\баринов\loadmatrix.h
+	"ConsoleInOut.h"
+	<fstream>
+	<cstdlib>
+
+1477019577 source:c:\users\avdrine\desktop\баринов\workwithmatrix.cpp
+	"WorkWithMatrix.h"
+
+1477019587 c:\users\avdrine\desktop\баринов\workwithmatrix.h
+	"ConsoleInOut.h"
+	<iostream>
+	<new>
+	<sstream>
+	<iomanip>
+	<math.h>
+	"LoadMatrix.h"
+
+1477019624 source:c:\users\avdrine\desktop\баринов\main.cpp
+	<iomanip>
+	"WorkWithMatrix.h"
+	"LoadMatrix.h"
+	"ErrorHandler.h"
+
